@@ -1,0 +1,7 @@
+{
+    "title": "Amazing Button",
+    "files": {
+        "button.html": "src/button.html",
+        "index.js": "src/index.js"
+    }
+}
