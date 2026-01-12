@@ -1,0 +1,7 @@
+{
+    "title": "Crazy Cart Button",
+    "files": {
+        "crazy-cart-button.liquid": "snippets/crazy-cart-button.liquid",
+        "crazy-cart.js": "src/crazy-cart.js"
+    }
+}
